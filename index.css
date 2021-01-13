@@ -1,21 +1,16 @@
 .parent {
   width: 50%;
-  border: 5px solid #E18728;
-  float: left;
+  border: solid orange;
 }
 
 .child {
   width: 90%;
-  padding: 20%;
-  border: 4px solid black;
-  margin: .5em auto;
+  border: solid yellow;
 }
 
 .twins {
   width: 50%;
-  padding: 1em;
-  border: 4px solid black;
-  float: left;
+  border: solid green;
 }
 
 
@@ -24,10 +19,9 @@
 body {
   font-family: sans-serif;
   font-size: 1.1em;
-}
-
-.buttons {
-  margin-bottom: .5em;
+  width: 800px;
+  height: 400px;
+  border: solid red;
 }
 
 p:not(.intro) {
