@@ -1,6 +1,17 @@
+.div1 {
+  display: flex;
+}
+
 .parent {
   width: 50%;
-  border: solid orange;
+}
+
+.parent1 {
+  border: solid red 5px;
+}
+
+.parent2 {
+  border: solid orange 5px;
 }
 
 .child {
