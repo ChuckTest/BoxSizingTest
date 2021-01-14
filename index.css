@@ -1,4 +1,4 @@
-.parent {
+.parent-class {
   width: 220px;
   height: 200px;
   border: solid 10px #ffc129;
@@ -16,10 +16,10 @@
   margin: 0
 }
 
-.child1 {
+.child2-class {
   box-sizing: content-box;
 }
 
-.child2 {
+.child3-class {
   box-sizing: border-box;
 }
