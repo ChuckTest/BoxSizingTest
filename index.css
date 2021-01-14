@@ -12,6 +12,14 @@
   background-color: rgba(229, 232, 252, .6)
 }
 
-child>p {
+.child>p {
   margin: 0
+}
+
+.child1 {
+  box-sizing: content-box;
+}
+
+.child2 {
+  box-sizing: border-box;
 }
